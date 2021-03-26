@@ -1,3 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
-venv/
+.idea/
 .gitignore
+__pycache__/
+tagging_so/__pycache__/
