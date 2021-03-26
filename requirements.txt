@@ -10,7 +10,7 @@ nltk==3.5
 numpy
 pandas
 pip
-python==3.6.13
+python
 python-dateutil
 pytz
 regex
