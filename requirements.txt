@@ -10,9 +10,6 @@ nltk==3.5
 numpy
 pandas
 pip
-python
-python-dateutil
-pytz
 regex
 scikit-learn
 scipy
