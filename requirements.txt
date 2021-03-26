@@ -1,8 +1,5 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: win-64
 beautifulsoup4==4.9.3
-blas==1.0
+blas
 bs4==4.9.3
 ca-certificates==2021.1.19
 certifi==2020.12.5
