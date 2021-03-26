@@ -1,5 +1,4 @@
 beautifulsoup4==4.9.3
-blas
 bs4==4.9.3
 ca-certificates==2021.1.19
 certifi==2020.12.5
